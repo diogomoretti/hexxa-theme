@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/diogomoretti/hexxa-theme/main/docs/banner.png?token=GHSAT0AAAAAAC2JPG3KO7MKED7ZL43BIXRCZ3JXVEQ" alt="Hexxa Theme Logo">
-</p>
-
-<br>
+![Hexxa Theme Preview](./docs/banner.png)
 
 ## Preview
 
