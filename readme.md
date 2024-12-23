@@ -1,5 +1,3 @@
-# Hexxa Theme
-
 <p align="center">
   <img src="./docs/banner.png" alt="Hexxa Theme Logo">
 </p>
