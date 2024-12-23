@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="./docs/banner.png" alt="Hexxa Theme Logo">
+  <img src="https://raw.githubusercontent.com/diogomoretti/hexxa-theme/main/docs/banner.png?token=GHSAT0AAAAAAC2JPG3KO7MKED7ZL43BIXRCZ3JXVEQ" alt="Hexxa Theme Logo">
 </p>
-<h3 align="center">
-  A definitive theme for Cursor AI and VS Code
-</h3>
 
 <br>
 
