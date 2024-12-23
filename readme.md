@@ -6,7 +6,9 @@
 
 ## Preview
 
-> Soon
+It's a preview of the theme from Cursor AI:
+
+![Hexxa Theme Preview](./docs/screenshot.png)
 
 ## Installation in Cursor AI
 
