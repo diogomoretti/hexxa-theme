@@ -10,7 +10,8 @@
     "build": "node build",
     "dev": "nodemon --watch src/colors.js --watch src/*.json build.js",
     "publishtag": "PACKAGE_VERSION=$(cat package.json | grep \\\"version\\\" | head -1 | awk -F: '{ print $2 }' | sed 's/[\",]//g' | tr -d '[[:space:]]') && git tag v$PACKAGE_VERSION && git push --tags",
-    "publishvscode": "vsce publish"
+    "publishvscode": "vsce publish",
+    "release": "npm run build && npm run publishtag && npm run publishvscode"
   },
   "node": "20",
   "repository": {
