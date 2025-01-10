@@ -1,7 +1,7 @@
 {
   "name": "hexxa-theme",
   "description": "A definitive theme for Cursor AI and VS Code",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Hexxa Theme",
   "publisher": "diogomoretti",
   "author": "Diogo Moretti",
@@ -9,8 +9,8 @@
   "scripts": {
     "build": "node build",
     "dev": "nodemon --watch src/colors.js --watch src/*.json build.js",
-    "publishvscode": "vsce publish",
-    "publishtag": "PACKAGE_VERSION=$(cat package.json | grep \\\"version\\\" | head -1 | awk -F: '{ print $2 }' | sed 's/[\",]//g' | tr -d '[[:space:]]') && git tag v$PACKAGE_VERSION && git push --tags"
+    "publishtag": "PACKAGE_VERSION=$(cat package.json | grep \\\"version\\\" | head -1 | awk -F: '{ print $2 }' | sed 's/[\",]//g' | tr -d '[[:space:]]') && git tag v$PACKAGE_VERSION && git push --tags",
+    "publishvscode": "vsce publish"
   },
   "node": "20",
   "repository": {

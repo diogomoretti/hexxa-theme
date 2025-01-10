@@ -1,5 +1,6 @@
 module.exports = {
-  '--color-comments': '#3C3945',
+  '--color-comments': '#666666',
+  '--color-selection': '#717DFF39',
   '--color-gray': '#EEEEEE',
   '--color-negative': '#F8F8F8',
 
