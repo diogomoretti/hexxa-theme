@@ -1,11 +1,5 @@
 ![Hexxa Theme Preview](./docs/banner.png)
 
-<br>
-<p align="center">
-  <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/diogomoretti.hexxa-theme?style=for-the-badge">
-  <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/diogomoretti.hexxa-theme?style=for-the-badge">
-</p>
-
 ## Preview
 
 It's a preview of the theme from Cursor AI:
